@@ -1,0 +1,3 @@
+D:/Documents/leetcode/Sort/Sort/CMakeFiles/QuickSort.dir
+D:/Documents/leetcode/Sort/Sort/CMakeFiles/ALL_BUILD.dir
+D:/Documents/leetcode/Sort/Sort/CMakeFiles/ZERO_CHECK.dir
